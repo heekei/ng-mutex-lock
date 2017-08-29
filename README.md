@@ -28,3 +28,8 @@ var lockedHello = mutexLockService.create(fn);
 //然后……
 //没有了
 ```
+
+# 详情
+>还提供了remove和query方法，用来删除和查询互斥锁
+
+>请移步代码，简短寥寥几行
